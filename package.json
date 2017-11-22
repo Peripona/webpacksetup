@@ -1,0 +1,9 @@
+{
+  "name": "webpacksetup",
+  "version": "1.0.0",
+  "description": "It is base project with libraries for all needs of a commercial project setup",
+  "main": "index.js",
+  "author": "Tarandeep Singh",
+  "license": "MIT",
+  "private": false
+}
